@@ -1,0 +1,130 @@
+From adrian15sgd at gmail.com  Sun Oct 11 19:35:33 2009
+From: adrian15sgd at gmail.com (adrian15)
+Date: Sun, 11 Oct 2009 19:35:33 +0200
+Subject: [sgd-es] Cerramos la lista de supergrub en castellano?
+Message-ID: <4AD21765.5090909@gmail.com>
+
+Hace un mes o dos me cabre? mucho porque el wiki de Super Grub Disk no 
+estaba traducido totalmente, ni actualizado al castellano y decidi 
+dejarlo todo en ingl?s por coherencia.
+
+Y, no s?, dado que el desarrollo se focaliza mucho en la de ingl?s, por 
+eso de colaborar entre todos, y de alguna manera parece que el soporte 
+tanto en ingl?s como en castellano se ha marchado al foro de la p?gina 
+web pues...
+
+Eso... Que si cerramos el chiringuito (la lista de correo de super grub 
+disk en castellano)?
+
+?Cual es vuestra opini?n al respecto?
+?A alguno de vosotros les es ?til esta lista?
+?Qu? esperariais de ella si se le quisiera dar una nueva vida?
+
+
+adrian15
+-- 
+Support free software. Donate to Super Grub Disk. Apoya el software 
+libre. Dona a Super Grub Disk. http://www.supergrubdisk.org/index.php?pid=10
+
+
+
+From keteden32 at yahoo.es  Fri Oct 16 01:11:25 2009
+From: keteden32 at yahoo.es (paco altuna altuna)
+Date: Thu, 15 Oct 2009 16:11:25 -0700 (PDT)
+Subject: [sgd-es] Cerramos la lista de supergrub en castellano?
+In-Reply-To: <4AD21765.5090909@gmail.com>
+Message-ID: <699347.50672.qm@web25003.mail.ukl.yahoo.com>
+
+
+
+--- El dom, 11/10/09, adrian15 <adrian15sgd at gmail.com> escribi?:
+
+> Asunto: [sgd-es] Cerramos la lista de supergrub en castellano?
+> Para: supergrub-castellano at lists.berlios.de
+> Fecha: domingo, 11 octubre, 2009 7:35
+> Hace un mes o dos me cabre? mucho
+> porque el wiki de Super Grub Disk no 
+> estaba traducido totalmente, ni actualizado al castellano y
+> decidi 
+> dejarlo todo en ingl?s por coherencia.
+> 
+> Y, no s?, dado que el desarrollo se focaliza mucho en la
+> de ingl?s, por 
+> eso de colaborar entre todos, y de alguna manera parece que
+> el soporte 
+> tanto en ingl?s como en castellano se ha marchado al foro
+> de la p?gina 
+> web pues...
+> 
+> Eso... Que si cerramos el chiringuito (la lista de correo
+> de super grub 
+> disk en castellano)?
+> 
+> ?Cual es vuestra opini?n al respecto?
+> ?A alguno de vosotros les es ?til esta lista?
+> ?Qu? esperariais de ella si se le quisiera dar una nueva
+> vida?
+> 
+> 
+> adrian15
+
+
+
+
+Personalmente a mi me molestar?a que se cerrara la lista.
+
+En esta semana puedo intentar el pasar algo a castellano.
+
+Supongo que es bastante l?gico centrar los esfuerzos en ingles.
+La vida de esta lista es mas bien escasa.
+
+Saludos
+
+Francisco
+
+
+
+      
+
+
+From adrian15sgd at gmail.com  Fri Oct 16 16:20:47 2009
+From: adrian15sgd at gmail.com (adrian15)
+Date: Fri, 16 Oct 2009 16:20:47 +0200
+Subject: [sgd-es] Cerramos la lista de supergrub en castellano?
+In-Reply-To: <699347.50672.qm@web25003.mail.ukl.yahoo.com>
+References: <699347.50672.qm@web25003.mail.ukl.yahoo.com>
+Message-ID: <4AD8813F.2040204@gmail.com>
+
+paco altuna altuna escribi?:
+
+> Personalmente a mi me molestar?a que se cerrara la lista.
+Bien.
+> 
+> En esta semana puedo intentar el pasar algo a castellano.
+No. Ver?s. O se traduce todo o no se traduce nada. Te tienes que 
+comprometer a traducir todo. Al no ser que emplees una t?cnica de 
+traducci?n o un plugin mejor dicho que permite "embeber" las 
+traducciones en el mismo wiki.
+
+De esa manera si se podr?an actualizar las p?ginas bien.
+> 
+> Supongo que es bastante l?gico centrar los esfuerzos en ingles.
+Aj?.
+> La vida de esta lista es mas bien escasa.
+S?, bueno, a veces soy vago hasta para traducir las noticias hacia aqui.
+
+?Sabiais que hay un super grub disk 0.9799 que permite cargar cargadores 
+de arranque no grub en particiones logicas?
+
+?Y qu? ahora usamos GIT?
+
+No prometo nada pero mirar? lo del plugin para que las traducciones al 
+castellano tengan sentido. En principio el plugin est? instalado pero 
+habr?a que ver c?mo se usa.
+
+adrian15
+-- 
+Support free software. Donate to Super Grub Disk. Apoya el software 
+libre. Dona a Super Grub Disk. http://www.supergrubdisk.org/index.php?pid=10
+
+
